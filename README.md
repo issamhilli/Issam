@@ -6,9 +6,9 @@ Welcome to my software engineering portfolio! This repository showcases a collec
 ## Table of Contents
 
 
-About Me
-Skills
-Contact
+- About Me
+- Skills
+- Contact
 
 ## About Me
 
@@ -18,14 +18,14 @@ I am a passionate software engineer with expertise in backend , I have developed
 ## Skills
 
 
-Programming Languages:  Python, JavaScript.
-Frameworks and Libraries: React, Angular, Django .
-Databases:  MySQL, PostgreSQL .
-Tools and Technologies: Git .
+- Programming Languages:  Python, JavaScript.
+- Frameworks and Libraries: React, Angular, Django .
+- Databases:  MySQL, PostgreSQL .
+- Tools and Technologies: Git .
 
 ## Contact
 
 
-Email: hilliissam9@gmail.com
-LinkedIn:https://www.linkedin.com/in/issam-hilli-515471279/
-GitHub:https://github.com/issamhilli
+- Email: hilliissam9@gmail.com
+- LinkedIn:https://www.linkedin.com/in/issam-hilli-515471279/
+- GitHub:https://github.com/issamhilli
